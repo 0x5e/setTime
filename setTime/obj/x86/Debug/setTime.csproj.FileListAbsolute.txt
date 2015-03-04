@@ -1,0 +1,14 @@
+H:\0x5e\Programming\C\C#\setTime\setTime\bin\Debug\setTime.exe
+H:\0x5e\Programming\C\C#\setTime\setTime\bin\Debug\setTime.pdb
+H:\0x5e\Programming\C\C#\setTime\setTime\obj\x86\Debug\setTime.Form1.resources
+H:\0x5e\Programming\C\C#\setTime\setTime\obj\x86\Debug\setTime.Properties.Resources.resources
+H:\0x5e\Programming\C\C#\setTime\setTime\obj\x86\Debug\setTime.csproj.GenerateResource.Cache
+H:\0x5e\Programming\C\C#\setTime\setTime\obj\x86\Debug\setTime.exe
+H:\0x5e\Programming\C\C#\setTime\setTime\obj\x86\Debug\setTime.pdb
+H:\0x5e\Programming\C\CSharp\setTime\setTime\obj\x86\Debug\setTime.exe
+H:\0x5e\Programming\C\CSharp\setTime\setTime\obj\x86\Debug\setTime.pdb
+H:\0x5e\Programming\C\CSharp\setTime\setTime\bin\Debug\setTime.exe
+H:\0x5e\Programming\C\CSharp\setTime\setTime\bin\Debug\setTime.pdb
+H:\0x5e\Programming\C\CSharp\setTime\setTime\obj\x86\Debug\setTime.Form1.resources
+H:\0x5e\Programming\C\CSharp\setTime\setTime\obj\x86\Debug\setTime.Properties.Resources.resources
+H:\0x5e\Programming\C\CSharp\setTime\setTime\obj\x86\Debug\setTime.csproj.GenerateResource.Cache

@@ -1,0 +1,7 @@
+H:\0x5e\Programming\C\CSharp\setTime\setTime\bin\Release\setTime.exe
+H:\0x5e\Programming\C\CSharp\setTime\setTime\bin\Release\setTime.pdb
+H:\0x5e\Programming\C\CSharp\setTime\setTime\obj\x86\Release\setTime.Form1.resources
+H:\0x5e\Programming\C\CSharp\setTime\setTime\obj\x86\Release\setTime.Properties.Resources.resources
+H:\0x5e\Programming\C\CSharp\setTime\setTime\obj\x86\Release\setTime.csproj.GenerateResource.Cache
+H:\0x5e\Programming\C\CSharp\setTime\setTime\obj\x86\Release\setTime.exe
+H:\0x5e\Programming\C\CSharp\setTime\setTime\obj\x86\Release\setTime.pdb
